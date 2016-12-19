@@ -2,3 +2,7 @@ target/
 data/
 .idea/
 *.iml
+elasticsearch-metrics-reporter-java.ipr
+elasticsearch-metrics-reporter-java.iws
+.gradle
+build
